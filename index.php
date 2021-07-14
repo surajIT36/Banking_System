@@ -98,7 +98,7 @@ h1{
       <div class="container">
         <p class="copyright">Follow Link</p>
         <div class="text-center">
-<p><a href="http://thesparksfoundation.in/">WEB DEVELOPEMENT & DESIGNING INTERN @THE SPARK FOUNDATION </a> </p>
+<p><a href="https://internship.thesparksfoundation.info/">WEB DEVELOPEMENT & DESIGNING INTERN @THE SPARK FOUNDATION </a> </p>
         </div>
         <div class="col item social">
           <a href="https://www.facebook.com/Ersuraj36/"><i class="icon ion-social-facebook"></i></a>
