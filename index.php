@@ -103,7 +103,7 @@ h1{
         <div class="col item social">
           <a href="https://www.facebook.com/Ersuraj36/"><i class="icon ion-social-facebook"></i></a>
           <a href="https://www.linkedin.com/in/er-suraj-singh-968551168/"><i class="icon ion-social-linkedin"></i></a>
-          <a href="#"><i class="icon ion-social-youtube"></i></a>
+          <a href="https://www.youtube.com/watch?v=RXddGTqT_ig"><i class="icon ion-social-youtube"></i></a>
           <a href="https://github.com/surajIT36/Banking_System"><i class="icon ion-social-github"></i></a>
           <a href="https://twitter.com/surajku23514902"><i class="icon ion-social-twitter"></i></a>
         </div>
